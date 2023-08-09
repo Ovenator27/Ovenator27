@@ -1,6 +1,10 @@
 ### Hi there 👋 
 
-I am a secondary school science teacher making a career change into Software Development. I am currently enrolled on the Northcoders coding bootcamp due to start on November 27th (very excited!) and am also working through parts of 'The Odin Project' and watching the CS50 coding course series. 
+Qualified Secondary school science teacher making a career change into Software Development. 
+
+Currently enrolled on the Northcoders coding bootcamp due to start on November 27th (very excited!) 
+
+Working through 'The Odin Project' and watching the CS50 coding course series. 
 
 - 🔭 I’m currently working on Northcoders Precourse
 - 🌱 I’m currently learning HTML, CSS & Javascript through 'The Odin Project' and 'Northcoders'
