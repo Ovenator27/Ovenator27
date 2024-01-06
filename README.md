@@ -2,11 +2,11 @@
 
 Qualified Secondary school science teacher making a career change into Software Development. 
 
-Currently enrolled on the Northcoders coding bootcamp due to start on November 27th (very excited!) 
+Currently enrolled on the Northcoders coding bootcamp due to start on January 8th
 
 Working through 'The Odin Project' and watching the CS50 coding course series. 
 
-- 🔭 I’m currently working on Northcoders Precourse
+- 🔭 I’m currently working on Northcoders Software Development Bootcamp
 - 🌱 I’m currently learning HTML, CSS & Javascript through 'The Odin Project' and 'Northcoders'
 - 💬 Ask me about why I want to get into Software Development
 - 📫 How to reach me: email me at ovendej@gmail.com
