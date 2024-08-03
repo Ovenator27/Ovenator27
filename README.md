@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
-Qualified Secondary school science teacher making a career change into Software Development. 
+Junior Full Stack developer looking to land a role in tech, ambitious and driven, willing to learn and develop. 
 
-Currently enrolled on the Northcoders coding bootcamp due to start on January 8th
+Completed Northcoders Full Stack Development Bootcamp.
 
-Working through 'The Odin Project' and watching the CS50 coding course series. 
+Currently completing 100 Days of Code learning Python. 
 
-- 🔭 I’m currently working on Northcoders Software Development Bootcamp
-- 🌱 I’m currently learning HTML, CSS & Javascript through 'The Odin Project' and 'Northcoders'
+- 🔭 I’m currently working on 100 days of Code (Python)
+- 🌱 I’m currently learning Python
 - 💬 Ask me about why I want to get into Software Development
 - 📫 How to reach me: email me at ovendej@gmail.com
 - 😄 Pronouns: He/Him
